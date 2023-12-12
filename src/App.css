@@ -1,0 +1,62 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+li{
+  list-style: none;
+}
+
+ul{
+  padding-right: 30px;
+  display: flex;
+  gap: 5px;
+  justify-content: space-between;
+}
+
+
+.nav-box{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  background-color: #5b5b5b;
+  border-radius: 10px;
+}
+
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+
+.brown{
+  background-color: brown;
+}
+
+.pink{
+  background-color: pink;
+}
+
+.outer{
+  padding: 200px;
+  border: 1px solid white;
+  border-radius: 5%;
+}
+
+h1{
+  color: black;
+  opacity: 0.2;
+}
